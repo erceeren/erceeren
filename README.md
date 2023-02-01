@@ -1,4 +1,8 @@
 ### Hi there 👋
+Software Engineer @Amazon FireTV, London
+🔭 I’m currently working with python, golang, typescript
+🌱 I’m currently learning Unity and kotlin
+
 
 <!--
 **erceeren/erceeren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
