@@ -1,6 +1,6 @@
 Software Engineer @Amazon FireTV, London
 
-I work with java and AWS while building FireTV catalog/
+I work with java and AWS while building FireTV catalog/*
 
 - 🔭 I’m currently working with python, golang, typescript in my own projects
 - 🌱 I’m currently learning Unity and kotlin
